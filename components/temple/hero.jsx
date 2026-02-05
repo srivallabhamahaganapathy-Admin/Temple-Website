@@ -24,7 +24,7 @@ export function Hero() {
         </div>
 
         {/* Tamil Title */}
-        <h1 className="mb-2 font-serif text-2xl font-bold text-gold drop-shadow-lg md:text-4xl lg:text-5xl">
+        <h1 className="mb-2 font-serif text-2xl font-bold text-gold drop-shadow-lg md:text-4xl lg:text-5xl leading-9">
           அருள்மிகு ஸ்ரீ வல்லப மகாகணபதி திருக்கோவில்
         </h1>
 
