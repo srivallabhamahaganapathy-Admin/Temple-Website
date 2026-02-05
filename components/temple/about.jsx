@@ -25,7 +25,7 @@ export function About() {
           <div className="relative">
             <div className="relative aspect-[4/3] overflow-hidden rounded-lg shadow-xl">
               <Image
-                src="/images/temple-exterior.jpg"
+                src="../public/temple-exterior.jpg"
                 alt="Arulmigu Sri Vinayagar Temple exterior view with traditional gopuram"
                 fill
                 className="object-cover"
