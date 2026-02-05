@@ -128,7 +128,7 @@ export function Donations() {
           <div className="flex flex-col items-center gap-4 py-4">
             <div className="relative h-48 w-48 overflow-hidden rounded-lg border-2 border-gold">
               <Image
-                src="/images/qr-placeholder.jpg"
+                src="./images/qr-placeholder.jpg"
                 alt="Donation QR Code"
                 fill
                 className="object-cover"
