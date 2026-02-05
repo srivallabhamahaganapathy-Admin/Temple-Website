@@ -59,7 +59,7 @@ export function Festivals() {
             <div className="grid lg:grid-cols-2">
               <div className="relative min-h-[300px]">
                 <Image
-                  src="/images/temple-festival.jpg"
+                  src="./images/temple-festival.jpg"
                   alt="Vinayagar Chaturthi grand celebrations"
                   fill
                   className="object-cover"

@@ -10,42 +10,42 @@ import {
 
 const galleryImages = [
   {
-    src: "/images/vinayagar-hero.jpg",
+    src: "./images/vinayagar-hero.jpg",
     alt: "Lord Vinayagar deity adorned with flowers and ornaments",
     title: "Sri Vinayagar",
   },
   {
-    src: "/images/temple-exterior.jpg",
+    src: "./images/temple-exterior.jpg",
     alt: "Temple exterior view with traditional gopuram architecture",
     title: "Temple Gopuram",
   },
   {
-    src: "/images/temple-festival.jpg",
+    src: "./images/temple-festival.jpg",
     alt: "Vinayagar Chaturthi festival celebrations with decorated idol",
     title: "Festival Celebrations",
   },
   {
-    src: "/images/temple-pooja.jpg",
+    src: "./images/temple-pooja.jpg",
     alt: "Abhishekam pooja ceremony in progress",
     title: "Abhishekam Pooja",
   },
   {
-    src: "/images/gallery-1.jpg",
+    src: "./images/gallery-1.jpg",
     alt: "Traditional brass temple lamps illuminated",
     title: "Temple Lamps",
   },
   {
-    src: "/images/gallery-2.jpg",
+    src: "./images/gallery-2.jpg",
     alt: "Fresh flower offerings and garlands",
     title: "Flower Offerings",
   },
   {
-    src: "/images/gallery-3.jpg",
+    src: "./images/gallery-3.jpg",
     alt: "Temple bells at the entrance",
     title: "Temple Bells",
   },
   {
-    src: "/images/gallery-4.jpg",
+    src: "./images/gallery-4.jpg",
     alt: "Traditional kolam rangoli patterns at temple entrance",
     title: "Temple Kolam",
   },

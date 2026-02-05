@@ -7,7 +7,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/vinayagar-hero.jpg"
+          src="./images/vinayagar-hero.jpg"
           alt="Lord Vinayagar - Ganesha deity at Arulmigu Sri Vinayagar Temple"
           fill
           className="object-cover"
